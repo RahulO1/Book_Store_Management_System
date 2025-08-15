@@ -53,7 +53,7 @@ bookstore-management/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/bookstore-management.git
+git clone https://github.com/RahulO1/bookstore-management.git
 cd bookstore-management
 ```
 
@@ -131,9 +131,9 @@ You can use **Postman** or **Thunder Client** to test APIs.
 
 ## 🧑‍💻 Author
 
-- Name: [Your Name]  
-- GitHub: [@your-username](https://github.com/your-username)  
-- Email: your@email.com
+- Name: Pothu Rahul  
+- GitHub: RahulO1(https://github.com/RahulO1)  
+- Email: pothurahul20@gmail.com
 
 ---
 
