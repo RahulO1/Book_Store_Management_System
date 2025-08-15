@@ -1,0 +1,36 @@
+********Login Details********
+
+====Admin====
+Username : admin
+Password : adminpassword
+Role : Admin
+
+====Students====
+1)Username : 1439
+Password : 2203a51439
+Role : Student
+
+2)Username : 1404
+Password : 2203a51404
+Role : Student
+
+3)Username : 1004
+Password : 2203a51004
+Role : Student
+
+4)Username : 1007
+Password : 2203a51007
+Role : Student
+
+5)Username : 1013
+Password : 2203a51013
+Role : Student
+
+6)Username : 1723
+Password : 2203a51723
+Role : Student
+
+=========================================
+####Mongodb Compass####
+>>>>Connection Link<<<<
+mongodb://localhost:27017/
